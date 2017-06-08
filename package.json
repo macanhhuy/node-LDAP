@@ -19,10 +19,10 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bindings": "^1.2.1",
-    "lodash": "^3.10.1",
-    "nan": "^2.0.5",
-    "node-gyp": ""
+    "bindings": "1.2.1",
+    "lodash": "4.17.4",
+    "nan": "2.0.5",
+    "node-gyp": "4.0.0"
   },
   "engines": {
     "node": ">= 0.8.0"
